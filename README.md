@@ -9,6 +9,8 @@
 <!---
 Jason2216109/Jason2216109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
-gamebot, crashbot my number 14785009600
-627163918537jason
-uwiwzhdbhsuwudm
+{
+keywords: [
+whatsapp
+whatsapp-bot 
+whatsapp-multi-device
